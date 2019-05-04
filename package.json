@@ -1,0 +1,22 @@
+{
+  "name": "ggsalas.com",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [
+    "ggsalas",
+    "blog"
+  ],
+  "author": "Gabriel Germán Salas <g@ggsalas.com>",
+  "license": "GPL",
+  "dependencies": {
+    "next": "^8.1.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
