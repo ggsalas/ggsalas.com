@@ -1,35 +1,22 @@
 {
   "name": "ggsalas.com",
-  "version": "0.1.0",
-  "private": true,
-  "homepage": "https://ggsalas.github.io/ggsalas.com",
-  "dependencies": {
-    "gh-pages": "^2.0.1",
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
-    "react-scripts": "3.0.0"
-  },
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "predeploy": "react-scripts build",
-    "deploy": "gh-pages -d build"
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
   },
-  "eslintConfig": {
-    "extends": "react-app"
-  },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
+  "keywords": [
+    "ggsalas",
+    "blog"
+  ],
+  "author": "Gabriel Germán Salas <g@ggsalas.com>",
+  "license": "GPL",
+  "dependencies": {
+    "next": "^8.1.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
   }
 }
