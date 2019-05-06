@@ -13,7 +13,7 @@ function HomePage() {
           <a href="https://twitter.com/ggsalas" title="twitter">
             Twitter
           </a>
-          <a href="http://ar.linkedin.com/in/ggsalas" title="linkedin">
+          <a href="https://www.linkedin.com/in/ggsalas" title="linkedin">
             LinkedIn
           </a>
           <a href="https://www.facebook.com/ggsalas" title="facebook">
